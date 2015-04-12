@@ -1,5 +1,7 @@
 ## Introduction
 
+This read me file is cloned from the original repository at - https://github.com/rdpeng/ExData_Plotting1
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
