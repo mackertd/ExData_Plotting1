@@ -1,0 +1,5 @@
+Plot 3 - Note
+
+Plot3 PNG file shows the legend truncated within the plot.  I am unable to currently find a solution for this issue.  I tried the various plotting parameters with no improvement to the legend.
+
+It is is positioned with the topright value.
